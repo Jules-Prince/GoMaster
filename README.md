@@ -1,0 +1,2 @@
+# GoMaster
+Mastermind in go
